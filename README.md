@@ -3,11 +3,13 @@ DarkMirror is a tactical GitHub repository for hackers, researchers, and digital
 to disappear from the digital world and operate in full stealth.
 This repo is designed for high-anonymity, high-OPSEC operations — whether you're navigating the dark
 web, managing sensitive personas, or just don't want your digital scent traceable.
+
 🔑 Features
 • ✅ OPSEC Self-Test Simulator – Answer questions and rate your ghost level
 • 🕵️ High-Tier OPSEC Tips – Tactics for metadata nuking, stylometry evasion, MAC spoofing
 • 🔧 Tools – Bash + Python scripts for stealth operations
 • 💳 Offline-First – Designed to be run in air-gapped VMs or USB-based Tails
+
 🚀 How To Use
 1. Clone this repo inside a Tails or Whonix machine:
 1git clone https://github.com/your-username/DarkMirror.git
